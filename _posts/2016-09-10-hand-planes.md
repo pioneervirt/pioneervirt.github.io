@@ -3,7 +3,6 @@ date: 2016-09-10
 title: 'Hand Planes'
 ---
 
-
 Originating nearly two thousand years ago in Pompeii in 79 A.D., the hand plane has shaped the woodworking industry for ages. The device, originally used for flatly smoothing wood, has been widely adapted for smoothing curved surfaces and creating patterned and designed surfaces. Most of the planes on display can be identified as planes from Stanley Rule and Level Co. with Japanned finished metal and (once) lacquered wood, which entered production circa 1876.
 
 Most of these planes are used by pressing down on the plane while it rests on the edge of the wood to be smoothed and pushing away from the body. This method of use is traditional of Stanley products, which were likely in frequent use during Florida's pioneer days. Most European and Japanese cutting planes, however, involve pulling the mechanism toward the body.
