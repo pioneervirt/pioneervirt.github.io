@@ -167,7 +167,6 @@ img {
   float: left;
   width: 200px;
   height: 135px;
-  margin-right: 15px;
 
   @include mobile {
     float: none;
@@ -185,7 +184,8 @@ img {
 
   @include mobile {
     float: none;
-    display: block;
+    display: inline-block;
+    vertical-align: middle;
     margin: 0 auto;
   }
 }
