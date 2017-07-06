@@ -1,7 +1,7 @@
 
 # About the Pioneer Florida Museum and Village Register
 
-[This repository](https://github.com/pioneervirt/pioneervirt.github.io "GitHub Repository") is a build of the MIT licensed Jekyll Now theme for Jekyll. The content of this website is licensed under the terms of the Creative Commons Attribution NonCommercial NoDerivs (CC-NC-ND) license.
+[This repository](https://github.com/pioneervirt/pioneervirt.github.io "GitHub Repository") is a build of the MIT licensed Jekyll Now theme for Jekyll. The content of this website is licensed under the terms of the Creative Commons Attribution NonCommercial NoDerivs (CC-NC-ND) license. [Read more about licenses](https://pioneervirt.github.io/licenses/ "Licenses").
 
 ## What is it?
 
